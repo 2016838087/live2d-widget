@@ -129,7 +129,7 @@ https://github.com/xiazeyu/live2d-widget.js
 https://github.com/summerscar/live2dDemo
 
 关于后端 API 模型：  
-https://github.com/fghrsh/live2d_api  
+https://github.com/2016838087/live2d_api  
 https://github.com/xiazeyu/live2d-widget-models  
 https://github.com/xiaoski/live2d_models_collection
 
